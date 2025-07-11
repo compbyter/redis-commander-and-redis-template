@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/6g9U5w?referralCode=cXPwOK)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/redis-redis-commander-web-ui?referralCode=cXPwOK)
 
 # Deploy and Host Redis + Redis Commander Web UI on Railway
 
