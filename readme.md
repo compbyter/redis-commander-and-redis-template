@@ -2,16 +2,16 @@
 
 # Deploy and Host Redis + Redis Commander Web UI on Railway
 
-This template allows you to deploy Redis Commander automatically connected to Redis with a single click. It simplifies setting up a Redis instance alongside a web-based GUI for easy management and visualization.
+This template allows you to deploy Redis Commander automatically connected to Redis with a single click. It simplifies setting up a Redis instance alongside a Web UI for easy management and visualization.
 
 ## About Hosting Redis + Redis Commander Web UI
 
-Deploying Redis + Redis Commander Web UI on Railway requires no parameters or complex setup. With a single click, you can deploy both Redis and Redis Commander together, where Redis Commander automatically connects to the Redis instance. This makes it effortless to visualize and manage your Redis databases through a web interface.
+Deploying Redis + Redis Commander Web UI on Railway requires no parameters or complex setup. With a single click, you can deploy both Redis and Redis Commander together, where Redis Commander automatically connects to the Redis instance. This makes it effortless to visualize and manage your Redis databases through a Web UI.
 
 ## Common Use Cases
 
-- Setting up a new Redis database with an integrated web UI for management
-- Visualizing and managing an existing Redis database through a web-based GUI
+- Setting up a new Redis database with an integrated Web UI for management
+- Visualizing and managing an existing Redis database through a Web UI
 - Quickly deploying Redis and Redis Commander for development or testing purposes
 
 ## Dependencies for Redis + Redis Commander Web UI Hosting
@@ -21,6 +21,7 @@ Deploying Redis + Redis Commander Web UI on Railway requires no parameters or co
 ### Deployment Dependencies
 
 - Dockerfile maintained here: [GitHub - redis-commander-and-redis-template](https://github.com/compbyter/redis-commander-and-redis-template)
+- Redis Commender: https://hub.docker.com/r/rediscommander/redis-commander
 
 ### Implementation Details
 
